@@ -1,0 +1,33 @@
+[[pages]]
+path = "Tag.py"
+name = "Tags Management"
+icon = "🏷️"
+
+
+[[pages]]
+path = "pages/Create_Rule.py"
+name = "Create Tag Rule"
+icon = "⚙️"
+
+[[pages]]
+path = "pages/Shares_Management.py"
+name = "Shares Management"
+icon = "🔗"
+
+
+[[pages]]
+path = "pages/Warehouse_management.py"
+name = "Warehouse Management"
+icon = "🏬"
+
+
+[[pages]]
+path = "pages/Alert_Management.py"
+name = "Alert Management"
+icon = "⏳"
+
+
+[[pages]]
+path = "pages/Settings.py"
+name = "App Settings"
+icon = "⚙️"
